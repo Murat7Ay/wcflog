@@ -1,0 +1,8 @@
+c:\users\muratay\documents\visual studio 2013\Projects\LogWCF\LogWCF\bin\LogWCF.dll.config
+c:\users\muratay\documents\visual studio 2013\Projects\LogWCF\LogWCF\bin\LogWCF.dll
+c:\users\muratay\documents\visual studio 2013\Projects\LogWCF\LogWCF\bin\LogWCF.pdb
+c:\users\muratay\documents\visual studio 2013\Projects\LogWCF\LogWCF\obj\Debug\LogWCF.csprojResolveAssemblyReference.cache
+c:\users\muratay\documents\visual studio 2013\Projects\LogWCF\LogWCF\obj\Debug\LogWCF.dll
+c:\users\muratay\documents\visual studio 2013\Projects\LogWCF\LogWCF\obj\Debug\LogWCF.pdb
+C:\Users\muratay\Documents\Visual Studio 2013\Projects\LogWCF\LogWCF\bin\Newtonsoft.Json.dll
+C:\Users\muratay\Documents\Visual Studio 2013\Projects\LogWCF\LogWCF\bin\Newtonsoft.Json.xml
